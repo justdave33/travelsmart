@@ -18,7 +18,7 @@ const Home = () => {
         <div className="hero-content">
           <div className="customer-img">
             <img src={Frame16} alt="customer Image Loading" />
-            <h1 className="customer-h1">Your Trusted All-In-One</h1>
+            <h1 className="customer-h1">Your A B Trusted All-In-One</h1>
             <h2 className="customer-h2">
               <i>Travel Companion</i>
             </h2>
